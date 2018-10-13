@@ -1,0 +1,3 @@
+[submodule "peggg"]
+	path = peggg
+	url = ../pegdus.git
