@@ -1,3 +1,6 @@
 [submodule "peggg"]
 	path = peggg
 	url = https://github.com/duswang/pegdus.git
+[submodule "peg2"]
+	path = peg2
+	url = ../pegtry.git
