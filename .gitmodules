@@ -4,3 +4,9 @@
 [submodule "peg3"]
 	path = peg3
 	url = ../pegtry.git
+[submodule "mod/peg4"]
+	path = mod/peg4
+	url = ../pegtry.git
+[submodule "mode2/peg5"]
+	path = mode2/peg5
+	url = https://github.com/duswang/pegtry
